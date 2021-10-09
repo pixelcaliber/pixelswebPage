@@ -2,7 +2,7 @@ body{
     font-family: "Montserrat";
 }
 
-#title{
+#title{ 
     background-color:#ff4c68;
  
     /* font-family: 'Montserrat', sans-serif; */
@@ -62,11 +62,26 @@ h3{
     /* padding: 10% 10%; */
 }
 .pics{
-    padding:3%;
+    padding:3.5%;
     color:#fd8778;
 }
 .pics:hover{
     color:#ff4c68;
+}
+.checkpic{
+    width: 23%;
+    border-radius: 43%;
+    padding-top: 0%;
+    padding-bottom: 3.9%;
+
+}
+.bullseyepic{
+    width: 30%;
+    border-radius: 43%;
+    margin: 0;
+    padding-bottom: 0%;
+    padding-top: 0%;
+
 }
 #testimonials{
    
